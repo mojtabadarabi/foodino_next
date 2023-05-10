@@ -1,0 +1,9 @@
+{
+    "restaurant_list":"Restaurant list",
+    "restaurant_name":"Restaurant name",
+    "admin_user_name":"Admin Username",
+    "create_restaurant":"Create new restaurant",
+    "update_restaurant":"Update restaurant",
+    "admin_password":"Admin password",
+    "address":"Address"
+}

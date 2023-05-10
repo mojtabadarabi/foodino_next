@@ -1,0 +1,16 @@
+{
+  "app_name": "Foodino",
+  "dashboard": "Dashboard",
+  "create": "Create",
+  "update": "Update",
+  "delete": "Delete",
+  "user_name": "User name",
+  "password": "Password",
+  "login_description": "By registering and logging in at Foodino, you can experience better Bashi food",
+  "login_signup": "login / sign up",
+  "login": "Login",
+  "description": "Description",
+  "number": "Number",
+  "score": "Score",
+  "price": "Price"
+}

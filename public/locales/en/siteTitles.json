@@ -1,0 +1,9 @@
+{
+    "login":"Login",
+    "main_page":"Main page",
+    "create_food":"Create food",
+    "update_food":"Update food",
+    "create_restaurant":"Create restaurant",
+    "update_restaurant":"Update restaurant",
+    "dashboard":"Dashboard"
+}

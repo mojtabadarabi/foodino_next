@@ -1,0 +1,10 @@
+{
+    "restaurant_list":"لیست رستوران ها",
+    "restaurant_name":"نام رستوران",
+    "description":"توضیحات",
+    "admin_user_name":"یوزر نیم ادمین",
+    "create_restaurant":"ساخت رستوران جدید",
+    "update_restaurant":"ویرایش رستوران ",
+    "admin_password":"پسورد ادمین",
+    "address":"آدرس"
+}

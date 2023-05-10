@@ -1,0 +1,16 @@
+{
+  "app_name": "فودینو",
+  "dashboard": "داشبورد",
+  "create": "ساخت",
+  "update": "ویرایش",
+  "delete": "حذف",
+  "user_name": "نام کاربری",
+  "password": "رمز عبور",
+  "login_description": "با ثبت نام و ورود در فودینو میتونی تجربه بهتری از غذات داشته باشی",
+  "login_signup": "ثبت نام / ورود",
+  "login": "ورود",
+  "description": "توضیحات",
+  "number": "شماره",
+  "score": "امتیاز",
+  "price": "قیمت"
+}
